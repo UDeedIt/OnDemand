@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter
+ondemand_client_flutter/build/
+ondemand_client_flutter/.dart_tool/
+ondemand_client_flutter/.packages
+ondemand_client_flutter/pubspec.lock
+ondemand_master_flutter/build/
+ondemand_master_flutter/.dart_tool/
+ondemand_master_flutter/.packages
+ondemand_master_flutter/pubspec.lock
+
+# React
+ondemand_admin_react/node_modules/
+ondemand_admin_react/dist/
+ondemand_admin_react/build/
+ondemand_admin_react/.env.local
+
+# Ktor
+ondemand_ktor_backend/build/
+ondemand_ktor_backend/.gradle/
+ondemand_ktor_backend/out/
