@@ -19,6 +19,14 @@ ondemand_master_flutter/.dart_tool/
 ondemand_master_flutter/.packages
 ondemand_master_flutter/pubspec.lock
 
+# Flutter Generated Files
+ondemand_client_flutter/linux/flutter/generated_plugins.cmake
+ondemand_client_flutter/macos/Flutter/GeneratedPluginRegistrant.swift
+ondemand_client_flutter/windows/flutter/generated_plugins.cmake
+ondemand_master_flutter/linux/flutter/generated_plugins.cmake
+ondemand_master_flutter/macos/Flutter/GeneratedPluginRegistrant.swift
+ondemand_master_flutter/windows/flutter/generated_plugins.cmake
+
 # React
 ondemand_admin_react/node_modules/
 ondemand_admin_react/dist/
